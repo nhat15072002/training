@@ -1,1 +1,2 @@
 # training
+Nguyễn quang nhật
